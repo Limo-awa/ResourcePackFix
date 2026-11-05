@@ -1,0 +1,13 @@
+{
+    "name": "ResourcePackFix",
+    "version": "1.0.0",
+    "type": "native",
+    "entry": "ResourcePackFix.dll",
+    "description": "修复资源包下载路径问题",
+    "author": "摸猫摸猫摸猫摸猫炒栗摸猫摸猫摸猫摸猫",
+        "dependencies": [
+        {
+            "name": "LegacyRemoteCall"
+        }
+    ]
+}
